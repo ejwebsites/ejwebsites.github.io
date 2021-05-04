@@ -1,0 +1,30 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+	background-color: rgb(230, 238, 255);
+	margin: 0px 25% 0px 25%;
+	font-size: 20px;
+
+}
+#title {
+	text-align: center;
+	font-size: 75px;
+	height: 8%;
+	position: fixed;
+	background-color: rgb(102, 153, 255);
+	left: 0px;
+	width: 100%;
+	color: white;
+	font-family: 'Bebas Neue', sans-serif;
+}
+p {
+	margin: 50px;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1.7em;
+}
+.line {
+	border-top-style: solid;
+}
