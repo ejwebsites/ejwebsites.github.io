@@ -22,6 +22,9 @@ body {
 	width: 100%;
 	color: white;
 }
+a {
+	color: rgb(200,140,235);
+}
 p {
 	margin-top: 50px;
 	margin-bottom: 50px;
