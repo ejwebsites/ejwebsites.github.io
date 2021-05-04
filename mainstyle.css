@@ -17,7 +17,8 @@ body {
 	font-family: 'Bebas Neue', sans-serif;
 }
 p {
-	margin: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 h2 {
 	font-size: 2em;
