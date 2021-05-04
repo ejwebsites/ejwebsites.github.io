@@ -28,3 +28,15 @@ h3 {
 .line {
 	border-top-style: solid;
 }
+#leftsidebar {
+	float: left;
+	position: fixed;
+	left: 2%;
+	width: 20%;
+}
+#rightsidebar {
+	float: right;
+	position: fixed;
+	right: 2%;
+	width: 20%;
+}
