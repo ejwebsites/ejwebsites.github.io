@@ -16,6 +16,12 @@ body {
 	color: white;
 	font-family: 'Bebas Neue', sans-serif;
 }
+#bottom {
+	text-align: center;
+	background-color: rgb(0, 0, 175);
+	width: 100%;
+	color: white;
+}
 p {
 	margin-top: 50px;
 	margin-bottom: 50px;
