@@ -40,13 +40,17 @@ h3 {
 }
 #leftsidebar {
 	float: left;
-	position: fixed;
+	position: static;
 	left: 2%;
 	width: 20%;
 }
 #rightsidebar {
 	float: right;
-	position: fixed;
+	position: static;
 	right: 2%;
 	width: 20%;
+}
+.sticky {
+	position: sticky;
+	top: 10%
 }
